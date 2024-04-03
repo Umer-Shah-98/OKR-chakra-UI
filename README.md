@@ -63,7 +63,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### 📫 Contact
 Umer Shah - @umershah1998@gmail.com
-Project Link: https://github.com/your_username/MyViteReactApp
 ### 💖 Acknowledgments
 - **Vite**
 - **React**
