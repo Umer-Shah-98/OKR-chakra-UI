@@ -38,7 +38,7 @@ Or using Yarn:
 bash
 Copy code
 yarn
-###🖥️ Running the App
+### 🖥️ Running the App
 To run the app in the development mode, use the following command:
 
 bash
@@ -50,7 +50,7 @@ bash
 Copy code
 yarn dev
 Open http://localhost:5173 to view it in the browser. The page will reload if you make edits.
-###🤝 Contributing
+### 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Fork the project
@@ -58,13 +58,13 @@ Create your feature branch (git checkout -b feature/AmazingFeature)
 Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 Open a pull request
-###📝 License
+### 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-###📫 Contact
+### 📫 Contact
 Umer Shah - @umershah1998@gmail.com
 Project Link: https://github.com/your_username/MyViteReactApp
-###💖 Acknowledgments
+### 💖 Acknowledgments
 Vite
 React
 Chakra UI
