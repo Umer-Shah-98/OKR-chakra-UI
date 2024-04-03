@@ -65,10 +65,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Umer Shah - @umershah1998@gmail.com
 Project Link: https://github.com/your_username/MyViteReactApp
 ### 💖 Acknowledgments
-Vite
-React
-Chakra UI
-Hat tip to anyone whose code was used
+- **Vite**
+- **React**
+- **Chakra UI**
+- **Hat tip to anyone whose code was used**
 
 
 
